@@ -12,7 +12,7 @@ If you want to vary using databases, remove unnecessary <code>Options.include</c
 
 To test oracle 11g r2 download and install <a href="http://www.oracle.com/technetwork/apps-tech/jdbc-112010-090769.html">ojdbc6</a> manually.
 
-# My results
+# Results
 
 # Search in 100 rows:
 Run complete. Total time: 00:02:41
