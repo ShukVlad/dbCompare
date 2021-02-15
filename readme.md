@@ -15,6 +15,7 @@ To test oracle 11g r2 download and install <a href="http://www.oracle.com/techne
 
 # My results
 
+
 # Search in 100 rows:
 Run complete. Total time: 00:02:41
 
